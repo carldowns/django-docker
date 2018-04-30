@@ -1,0 +1,2 @@
+Django==1.11.12
+gunicorn==19.8.0
