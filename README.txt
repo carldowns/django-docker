@@ -59,8 +59,8 @@ Run the django from python first outside of Docker
 
 $ python manage.py runserver
 
-sengi:django-docker carl_downs$ cd helloworld/
-sengi:helloworld carl_downs$ python manage.py runserver
+sengi:django-docker $ cd helloworld/
+sengi:helloworld $ python manage.py runserver
 Performing system checks...
 
 System check identified no issues (0 silenced).
